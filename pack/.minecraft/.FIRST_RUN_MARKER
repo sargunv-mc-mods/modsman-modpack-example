@@ -1,0 +1,5 @@
+# this file tells the FirstRun program where to invoke modsman
+# it'll automatically be deleted after the job is done
+
+resourcepacks
+mods

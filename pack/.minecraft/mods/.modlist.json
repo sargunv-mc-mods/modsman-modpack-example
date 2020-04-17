@@ -1,0 +1,111 @@
+{
+  "config": {
+    "required_game_versions": [
+      "1.15"
+    ],
+    "excluded_game_versions": [
+      "Forge",
+      "Rift"
+    ]
+  },
+  "mods": [
+    {
+      "project_id": 313219,
+      "project_name": "Health Overlay (Fabric)",
+      "file_id": 2908962,
+      "file_name": "HealthOverlay-1.15.2-2.3.10.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 319036,
+      "project_name": "Chunk Activator",
+      "file_id": 2929539,
+      "file_name": "chunk-activator-2.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 319741,
+      "project_name": "Suppress Unknown Item",
+      "file_id": 2927636,
+      "file_name": "suppress-unknown-item-2.0.1+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 319409,
+      "project_name": "Composable Automation",
+      "file_id": 2930631,
+      "file_name": "composable-automation-0.8.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318225,
+      "project_name": "Proletarian",
+      "file_id": 2927907,
+      "file_name": "proletarian-1.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 255871,
+      "project_name": "Level Up HP",
+      "file_id": 2926823,
+      "file_name": "level-up-hp-5.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318894,
+      "project_name": "Data Loader",
+      "file_id": 2927042,
+      "file_name": "data-loader-2.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318163,
+      "project_name": "I Am Very Smart",
+      "file_id": 2929499,
+      "file_name": "i-am-very-smart-2.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318684,
+      "project_name": "Beach Slimes",
+      "file_id": 2927655,
+      "file_name": "beach-slimes-2.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 317548,
+      "project_name": "Always Drop Loot",
+      "file_id": 2927622,
+      "file_name": "always-drop-loot-4.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 308769,
+      "project_name": "Fabric Language Kotlin",
+      "file_id": 2843142,
+      "file_name": "fabric-language-kotlin-1.3.61+build.1.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 318410,
+      "project_name": "Lead Villagers",
+      "file_id": 2927670,
+      "file_name": "lead-villagers-2.0.0+mc1.15.2.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 306612,
+      "project_name": "Fabric API",
+      "file_id": 2898702,
+      "file_name": "fabric-api-0.5.1+build.294-1.15.jar",
+      "pinned": false
+    },
+    {
+      "project_id": 308702,
+      "project_name": "Mod Menu (Fabric)",
+      "file_id": 2902148,
+      "file_name": "modmenu-1.10.2+build.32.jar",
+      "pinned": false
+    }
+  ]
+}

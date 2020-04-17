@@ -1,0 +1,17 @@
+{
+  "config": {
+    "required_game_versions": [
+      "1.15"
+    ],
+    "excluded_game_versions": []
+  },
+  "mods": [
+    {
+      "project_id": 236821,
+      "project_name": "Faithful x32",
+      "file_id": 2890251,
+      "file_name": "1.15.2-r1.zip",
+      "pinned": false
+    }
+  ]
+}
