@@ -24,7 +24,7 @@ Some knowledge of Modsman and MultiMC instances is required. Modsman is pretty s
 
 1. Clone this repo
 2. [Install modsman via Scoop or Homebrew](https://github.com/sargunv/modsman/blob/master/README.md), or add the included Modsman to your PATH
-3. Set up your pack inside this instance (*pack* directory), ensuring files from CurseForge are tracked in the *.modlist.json*
+3. Set up your pack inside this instance, ensuring files from CurseForge are tracked in the *.modlist.json*
    * if your pack is for a different MC version or modloader, you'll need to modify the `config` block of the *.modlist.json*
    * option 1, install the mods with Modsman using, `modsman-cli add`
    * option 2, install the mods manually and add them to the *.modlist.json* after, using `modsman-cli discover`
