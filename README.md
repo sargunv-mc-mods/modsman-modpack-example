@@ -2,7 +2,11 @@
 
 This repo is an example and starting point for putting together a modpack that can be loaded in MultiMC using [Modsman](https://github.com/sargunv/modsman/) to download content like mods and resource packs instead of distributing them directly. This readme contains information on what the experience is like for users, usage instructions for modpack creators, and details on how it works under the hood.
 
-This example pack consists of all my mods, their dependencies, and the Faithful texture pack. See the tags tab for an exported pack you can try out in MultiMC.
+This example pack consists of all my mods, their dependencies, and the Faithful texture pack. Import this URL into MultiMC to check it out for yourself:
+
+```
+https://gitlab.com/sargunv-mc-mods/modsman-modpack-example/-/archive/master/modsman-modpack-example-master.zip
+```
 
 ## Users' experience
 
