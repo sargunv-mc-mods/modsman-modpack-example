@@ -12,7 +12,7 @@ public class PlatformLauncher {
             finalArgs.add(args[0] + ".ps1");
         } else {
             finalArgs.add("sh");
-            finalArgs.add(args[1] + ".sh");
+            finalArgs.add(args[0] + ".sh");
         }
         for (int i = 1; i < args.length; i++) {
             finalArgs.add(args[i]);
