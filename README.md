@@ -23,11 +23,9 @@ Users don't need to know anything about Modsman. To them, the pack works like an
 Some knowledge of Modsman and MultiMC instances is required. Modsman is pretty straightforward to figure out if you're already familiar with using the command line on your platform.
 
 1. Clone this repo, or [create a new repo using this as a template](https://github.com/sargunv-mc-mods/modsman-modpack-example/generate)
-2. [Install modsman via Scoop or Homebrew](https://github.com/sargunv/modsman/blob/master/README.md), or add the included Modsman to your PATH
+2. [Install modsman via Scoop or Homebrew](https://github.com/sargunv/modsman/blob/master/README.md)
 3. Set up your pack inside this instance, ensuring files from CurseForge are tracked in the *.modlist.json*
-   * if your pack is for a different MC version or modloader, you'll need to modify the `config` block of the *.modlist.json*
-   * option 1, install the mods with Modsman using, `modsman-cli add`
-   * option 2, install the mods manually and add them to the *.modlist.json* after, using `modsman-cli discover`
+   * see the [Modsman README.md](https://github.com/sargunv/modsman/) for usage instructions
 4. Optionally, edit the `PreLaunchCommand` in *instance.cfg* to add `-i` flags for subdirectories you want Modsman to be invoked
    * by default, this is *mods* and/or *resourcepacks*
 5. Create your pack zip **EXCLUDING** the mod jars/zips tracked by *.modlist.json* and the *MODSMAN_FIRST_RUN_COMPLETE* files but **INCLUDING** the actual *.modlist.json* in those directories
