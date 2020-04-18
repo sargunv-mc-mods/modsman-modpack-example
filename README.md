@@ -5,7 +5,7 @@ This repo is an example and starting point for putting together a modpack that c
 This example pack consists of all my mods, their dependencies, and the Faithful texture pack. Import this URL into MultiMC to check it out for yourself:
 
 ```
-https://gitlab.com/sargunv-mc-mods/modsman-modpack-example/-/archive/master/modsman-modpack-example-master.zip
+https://github.com/sargunv-mc-mods/modsman-modpack-example/archive/master.zip
 ```
 
 ## Users' experience
