@@ -14,4 +14,4 @@ if [ ! -f "$FILE_NAME" ]; then
     fi
 fi
 
-java -jar $FILE_NAME $@
+java -jar "$FILE_NAME" "$@"
